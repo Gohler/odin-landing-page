@@ -117,11 +117,25 @@ img {
     font-size: 36px;
     font-style: light italic;
     color: #1F2937;
-    padding: 200px;
+    padding: 100px;
 }
 
 .sign {
     display: flex;
     justify-content: flex-end;
     font-weight: bold;
+}
+
+.section4 {
+    display: flex;
+}
+
+.footer {
+    display: flex;
+    background-color: #1F2937;
+    color: white;
+    justify-content: center;
+    height: 50px;
+    margin-top: auto;
+    align-items: center;
 }
